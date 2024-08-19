@@ -1,5 +1,0 @@
-nome = input ("Digite o seu nome: ")
-idade = input ("Digite a sua idade: ")
-cidade = input ("Digite a cidade que você nasceu: ")
-print("Olá",nome, "a sua idade é",idade, "e você nasceu em ", cidade)
-print(f"Olá {nome}, você tem {idade} anos, e você nasceu em {cidade}")
